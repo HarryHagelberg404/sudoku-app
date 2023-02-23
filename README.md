@@ -32,3 +32,4 @@ Reflect on mostly the UI stuff
 ## References
 
 A well structured backend using the node + typescript pairing: https://github.com/janishar/nodejs-backend-architecture-typescript
+
